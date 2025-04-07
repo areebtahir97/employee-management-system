@@ -1,4 +1,5 @@
-<h2>A modern, responsive, and easy-to-use Employee Management System built using ReactJS. This application helps businesses manage their workforce more efficiently — allowing for operations such as adding, editing, and removing employees.<h2/>
+<h1>Employee Management System</h1>
+<p>A modern, responsive, and easy-to-use Employee Management System built using ReactJS. This application helps businesses manage their workforce more efficiently — allowing for operations such as adding, editing, and removing employees.</p>
 
 <hr/>
 
